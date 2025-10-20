@@ -14,4 +14,18 @@ Algumas respostas significativas estão espressas nos gráficos abaixo.
 
 ![objetivos](images/objetivos.png)
 
-![objetivos](images/objetivos.png)
+![tentou](images/tentou.png)
+
+![interesse](images/interesse.png)
+
+![influenciou](images/influenciou.png)
+
+![existe](images/existe.png)
+
+![desmotivacao](images/desmotivacao.png)
+
+![aumentar_motivacao](images/aumentar_motivacao.png)
+
+![antes_entrar](images/antes_entrar.png)
+
+![adicionar](images/adicionar.png)
