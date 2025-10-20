@@ -8,7 +8,7 @@ Os dados coletados estão na integra no arquivo [coleta.csv](coleta.csv).
 
 ## Resultados
 
-Foram coletadas 53 participações durante os dias TAL TAL TAL.
+Foram coletadas 53 participações no período de 23 de setembro de 2025 a 14 de outubro de 2025.
 
 Algumas respostas significativas estão espressas nos gráficos abaixo.
 
