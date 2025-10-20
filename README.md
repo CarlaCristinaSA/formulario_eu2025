@@ -4,6 +4,8 @@
 
 O formulário não está mais disponível para ser preenchido, mas as perguntas realizadas podem ser consultadas em [Formulário](forms.md).
 
+Os dados coletados estão na integra no arquivo [coleta.csv](coleta.csv)
+
 ## Resultados
 
 Foram coletadas 53 participações durante os dias TAL TAL TAL.
