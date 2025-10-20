@@ -1,0 +1,110 @@
+# Formulário
+
+Você está sendo convidado(a) a participar desta pesquisa que tem como objetivo compreender a desmotivação acadêmica em relação ao desenvolvimento de jogos digitais no Campus Quixadá da Universidade Federal do Ceará.
+
+A pesquisa não apresenta riscos aos participantes, e as informações fornecidas serão utilizadas exclusivamente para fins acadêmicos, preservando a identidade de todos os respondentes. Sua participação é voluntária e você poderá desistir a qualquer momento, sem prejuízo algum.
+
+- Ao prosseguir e responder este questionário, você declara estar ciente e concordar com a utilização das informações fornecidas de forma anônima e confidencial.
+  - Declaro que li e compreendi este termo e concordo em participar da pesquisa.
+  - Não concordo em participar da pesquisa.
+- Qual sua idade?   *
+  - Menos de 18 anos
+  - De 18 a 20 anos
+  - De 21 a 23 anos
+  - De 24 a 25 anos
+  - De 26 a 30 anos
+  - Mais de 30 anos
+- Qual o seu curso atual?   *
+  - Engenharia de Software
+  - Design Digital
+  - Ciência da Computação
+  - Redes de Computadores
+  - Sistemas da Informação
+  - Engenharia da Computação
+- Qual o seu semestre atual?   *
+  - 1º Semestre
+  - 2º Semestre
+  - 3º Semestre
+  - 4º Semestre
+  - 5º Semestre
+  - 6º Semestre
+  - 7º Semestre
+  - 8º Semestre
+  - 9º Semestre
+  - 10º Semestre
+  - Não sei em que semestre estou
+- Qual o seu principal objetivo na TI?   *
+  - Desenvolver Jogos Digitais
+  - Desenvolver meus próprios sistemas
+  - Ser pesquisador
+  - Seguir a área acadêmica
+  - Exercer uma profissão relacionada ao meu curso
+  - Outro: ________
+- Você já participou de algum projeto, pesquisa ou extensão relacionado a jogos digitais?   *
+  - Sim
+  - Não
+- Você joga jogos digitais atualmente?   *
+  - Sim, frequentemente
+  - Sim, às vezes
+  - Raramente
+  - Não jogo
+- Você tem interesse em trabalhar na área de desenvolvimento de jogos?   *
+  - Sim, é meu maior interesse
+  - Tenho interesse, mas não é minha prioridade
+  - Pouco interesse
+  - Nenhum interesse
+- Você sabia que existem as disciplinas optativas Introdução ao Desenvolvimento de Jogos (QXD0078) e Jogos Eletrônicos (QXD0205) no campus?   *
+  - Sim, sabia de ambas
+  - Sabia de apenas de Introdução ao Desenvolvimento de Jogos
+  - Sabia de apenas de Jogos Eletrônicos
+  - Não
+- Você já tentou se matricular em alguma dessas disciplinas?   *
+  - Sim, consegui cursar
+  - Sim, mas não consegui vaga
+  - Não tentei
+  - Não sabia da existência delas
+- Caso não tenha conseguido cursar, isso afetou de alguma forma sua motivação em relação ao curso?  
+  - Sim, me desmotivou bastante
+  - Sim, me desmotivou um pouco
+  - Não afetou minha motivação
+- Na sua opinião, deveria haver mais disciplinas obrigatórias ou optativas voltadas para jogos no Campus Quixadá?   *
+  - Sim, obrigatórias
+  - Sim, optativas
+  - Sim, ambos
+  - Não vejo necessidade
+- Você considera que a falta de oferta suficiente de disciplinas de jogos contribui para a desmotivação acadêmica de alguns alunos?   *
+  - Sim
+  - Talvez
+  - Não
+  - Nunca pensei a respeito
+- O seu interesse por jogos digitais influenciou sua decisão de cursar uma graduação em T.I?   *
+  - Sim, foi o principal motivo
+  - Sim, foi um dos motivos
+  - Não, não teve influência
+- Antes de entrar na UFC Quixadá, você já pensava em trabalhar com jogos digitais?   *
+  - Sim, era meu objetivo principal
+  - Tinha interesse, mas também em outras áreas
+  - Não, nunca pensei nisso
+- Você acredita que mais disciplinas de jogos poderiam aumentar o interesse e a motivação dos alunos nos cursos da UFC Quixadá?   *
+  - Sim
+  - Talvez
+  - Não
+- Você conhece colegas que entraram no curso por causa do interesse em jogos, mas ficaram frustrados/desmotivados pela falta de disciplinas na área?   *
+  - Sim, conheço vários
+  - Sim, conheço alguns
+  - Não conheço casos assim
+- Você já ouviu falar de algum grupo, projeto ou célula de desenvolvimento de jogos digitais dentro da UFC Quixadá?   *
+  - Sim, conheço bem
+  - Já ouvi falar, mas não sei detalhes
+  - Não conheço
+- Você já participou ou participa de algum grupo de desenvolvimento de jogos digitais?   *
+  - Sim, atualmente participo
+  - Já participei no passado
+  - Não, mas tenho interesse em participar
+  - Não, e não tenho interesse
+- Na sua opinião, a existência de grupos de desenvolvimento de jogos dentro da universidade poderia aumentar a motivação acadêmica dos alunos interessados em jogos digitais?   *
+  - Sim
+  - Talvez
+  - Não
+- Deixe aqui seus comentários ou sugestões sobre como o Campus poderia melhorar a oferta de conteúdos relacionados a jogos digitais:  
+  - _________________________________________
